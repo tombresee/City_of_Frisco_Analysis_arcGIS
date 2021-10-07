@@ -21,6 +21,7 @@ The Data
 ~~~~~~~~~~~~~~~~~~
 
 * information about the data
+* All shapefiles are projected in the State Plane coordinate system, Texas North Central zone, using a datum of NAD 83.
 
 
 |
