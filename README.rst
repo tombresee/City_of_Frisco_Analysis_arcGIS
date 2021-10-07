@@ -22,7 +22,8 @@ The Data
 
 * information about the data
 * All shapefiles are projected in the State Plane coordinate system, Texas North Central zone, using a datum of NAD 83.
-
+* Data is provided in ESRI Shapefile format
+* https://geo.friscotexas.gov/arcgis/rest/services/External/Points_of_Interest/MapServer/0
 
 |
 |
@@ -43,6 +44,7 @@ Reference Links
 **City of Frisco**
 * `GIS Link <https://www.friscotexas.gov/168/GIS>`_
 * `Mapping Portal <https://geo.friscotexas.gov/friscoportal/home/>`_
+* permit search: https://etrakit.friscotexas.gov/etrakit/Search/permit.aspx?activityNo=B21-01052
 
 
 |
@@ -122,8 +124,46 @@ City of Frisco GIS Division via e-mail at gis@friscotexas.gov.
 
 |
 |
+
+
+
+Report Verbage
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+** Interviews
+
+* Jaxon Bresee
+  * Doesn't want to get a speeding ticket
+  * 
+
+
+* Collect, represent, and analyze qualitative data about a quantitative data set, by conducting semi-structured interviews, processing interview notes into discrete pieces of qualitative data, and analyzing qualitative data using affinity walls.
+* 
+
+
+
+
+
 |
 |
+
+
+
+
+Questions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Explain how you use the data ? 
+* Explain how you don't use the data ? 
+
+
+
+
+
+|
+
+
+
 |
 |
 |
